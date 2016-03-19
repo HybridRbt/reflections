@@ -16,6 +16,3 @@ the diagram the way we do?
 
 Q: What are the pros and cons of Git’s automatic merging vs. always doing merges
  manually?
-
-Q: Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
